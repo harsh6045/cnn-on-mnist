@@ -6,13 +6,6 @@ This repository contains a Convolutional Neural Network (CNN) model built using 
 
 - [Project Overview](#project-overview)
 - [Requirements](#requirements)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Usage](#usage)
-- [References](#references)
 
 ## Project Overview
 
